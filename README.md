@@ -19,5 +19,4 @@ fastboot bbk unlock vivo
 
 # Worning
 该fastboot仅在Y51系列测试通过，其他手机未测试。
-**Vivo手机解锁后，控制台可能还是显示device unlock fail，但是是成功解锁的。开机并没有提示（Device is unlock）。但是，解锁后，可刷入Twrp等第三方Recovery。
-**
+**Vivo手机解锁后，控制台可能还是显示device unlock fail，但是是成功解锁的。开机并没有提示（Device is unlock）。但是，解锁后，可刷入Twrp等第三方Recovery。**
